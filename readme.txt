@@ -1,0 +1,1 @@
+so this was my 1st introduction to python projects and my fourth year as a coder. i decided to upload these just that u can leaarn and plezase dont copy the codes just go thorough it if necessary and write it alone, if possible try to optimize the code. You may refer to the word document on how to present your codes in hard copy to the examiner .
